@@ -1,2 +1,1 @@
-# infosys-dcf-valuation
-Built a five-year DCF valuation model for Infosys using FCFF forecasting, WACC estimation, terminal value analysis, and valuation sensitivity testing.
+# Business Valuation of Infosys Using Discounted Cash Flow (DCF)
