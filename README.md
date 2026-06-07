@@ -8,9 +8,9 @@ forecast through FY2031.
 
 ## Repository Structure
 ├── model\
-│   └── Infosys_DCF_Valuation.xlsx \    # Full Excel model (7 sheets)
+│   └── Infosys_DCF_Valuation.xlsx     # Full Excel model (7 sheets)\
 ├── data\
-│   └── sources.md \                     # Annual report citations
+│   └── sources.md                      # Annual report citations\
 ├── README.md
 
 ## Methodology
