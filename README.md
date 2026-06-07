@@ -7,10 +7,10 @@ using consolidated financial statements from FY2022–FY2026 and a 5-year FCFF
 forecast through FY2031.
 
 ## Repository Structure
-├── model
-│   └── Infosys_DCF_Valuation.xlsx     # Full Excel model (7 sheets)
-├── data
-│   └── sources.md                      # Annual report citations
+├── model\
+│   └── Infosys_DCF_Valuation.xlsx \    # Full Excel model (7 sheets)
+├── data\
+│   └── sources.md \                     # Annual report citations
 ├── README.md
 
 ## Methodology
